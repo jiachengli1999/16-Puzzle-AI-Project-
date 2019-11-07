@@ -1,6 +1,6 @@
 # 16-Puzzle-AI-Project-
 -Given: A intital 4x4 state containing numbers 1-14 and 2 zeros (the zeros indicate blank spaces), and a goal state  <br />
-EX: <br />
+EX: Initial State <br />
 9 13 7 4<br />
 12 3 0 1<br />
 2 0 5 6<br />
@@ -8,6 +8,7 @@ EX: <br />
 
 -Output: the least amount of actions to reach from the initial state to the goal state  <br />
 The output will be in this format:  <br />
+EX: output3.txt <br />
 9 3 13 4  <br />
 2 7 1 0  <br />
 10 12 0 5  <br />
